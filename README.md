@@ -7,3 +7,5 @@ pip install trimesh
 pip install pygplet
 
 pip install Shapely
+
+pip install pymesh
