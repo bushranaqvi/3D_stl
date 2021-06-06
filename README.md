@@ -1,5 +1,5 @@
 # 3D_stl
-requirements-:
+Requirements-:
 Perform the following installations before running the code
 
 pip install trimesh
